@@ -1,0 +1,7 @@
+{
+    "BOT_TOKEN": "YOUR_BOT_TOKEN_HERE",
+    "CHAT_ID": "YOUR_CHAT_ID_HERE",
+    "URL": "https://www.kleinanzeigen.de/s-immobilien/berlin/preis:300:1200/c195l3331",
+    "SEEN_IDS_FILE": "/home/pi/seen_ids.json",
+    "LOG_FILE": "/home/pi/wgbot.log"
+}
