@@ -18,6 +18,7 @@ A Python bot that monitors apartment listings on Kleinanzeigen and sends real-ti
 - Python 3.8+
 - A Telegram bot token
 - Your Telegram chat ID
+- In my case I'm using a raspberrypi 3b+ to run this script !
 
 ### 1. Clone the repository
 
