@@ -119,9 +119,8 @@ sudo systemctl start wgbot.service
 
 The bot automatically filters out listings containing:
 - `tausch` (swaps)
-- `nur frauen` (women only)
 - `coworking`
-- `büro` / `büroräum` / `büroraum` (office spaces)
+- `büroräum` (office spaces)
 - `praxis` (practice/clinic spaces)
 
 ## 📁 Project Structure
